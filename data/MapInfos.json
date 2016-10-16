@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"03_図書館地下神殿","order":11,"parentId":25,"scrollX":1184.7272727272727,"scrollY":806.1818181818182},
-{"id":2,"expanded":false,"name":"フィールド","order":1,"parentId":0,"scrollX":4335.272727272727,"scrollY":3116.727272727273},
+{"id":2,"expanded":true,"name":"フィールド","order":1,"parentId":0,"scrollX":4370.181818181818,"scrollY":3151.636363636364},
 {"id":3,"expanded":false,"name":"01_図書館地下神殿：B1F","order":12,"parentId":1,"scrollX":1167.2727272727273,"scrollY":1218.5454545454545},
 {"id":4,"expanded":true,"name":"02_図書館地下神殿：B2F","order":13,"parentId":1,"scrollX":1167.2727272727273,"scrollY":1083.2727272727273},
 {"id":5,"expanded":false,"name":"01_宿屋：1F","order":9,"parentId":20,"scrollX":1184.7272727272727,"scrollY":806.1818181818182},
